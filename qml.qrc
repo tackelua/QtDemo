@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>apps/laucher/laucher.qml</file>
+        <file>apps/laucher/ListApps.qml</file>
+        <file>apps/borderimage/content/bw.png</file>
+        <file>apps/borderimage/content/colors.png</file>
+        <file>apps/borderimage/content/MyBorderImage.qml</file>
+        <file>apps/borderimage/borderimage.qml</file>
+        <file>apps/laucher/AppContainer.qml</file>
+        <file>apps/versioning/versioning.qml</file>
+        <file>apps/versioning/LineEdit/LineEdit-1.0.qml</file>
+        <file>apps/versioning/LineEdit/LineEdit-1.1.qml</file>
+        <file>apps/versioning/LineEdit/qmldir</file>
+        <file>apps/versioning/ver1.0.qml</file>
+        <file>apps/versioning/ver1.1.qml</file>
+        <file>apps/module-namespace/items/CheckBox.qml</file>
+        <file>apps/module-namespace/items/checked.svg</file>
+        <file>apps/module-namespace/items/NewCheckBox.qml</file>
+        <file>apps/module-namespace/items/unchecked.svg</file>
+        <file>apps/module-namespace/use-namespace.qml</file>
+        <file>apps/KeyNavigation/menu-screen.qml</file>
+        <file>apps/States and Transitions/states and transitions.qml</file>
+        <file>apps/States and Transitions/Switch.qml</file>
+        <file>apps/ParentChange/parentchange.qml</file>
+        <file>apps/animations/animations.qml</file>
+        <file>apps/animations/ball.png</file>
+        <file>apps/animations/car.png</file>
+        <file>apps/Tinhte RSS/rss.qml</file>
+        <file>apps/TabBar/tabbar.qml</file>
+        <file>apps/ScreenSaver/screen-saver.qml</file>
+        <file alias="images/particle.png">apps/ScreenSaver/images/particle.png</file>
+        <file alias="images/sizeTable.png">apps/ScreenSaver/images/sizeTable.png</file>
+        <file alias="images/snowflake.png">apps/ScreenSaver/images/snowflake.png</file>
+    </qresource>
+</RCC>
